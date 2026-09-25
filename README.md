@@ -63,6 +63,8 @@ Für die Konfiguration werden Umgebungsvariablen verwendet.
 
 Sensible Daten wie Bot-Tokens oder Passwörter werden **nicht** im Repository gespeichert.
 
+![Erinnerungen](docs/screenshots/05-erinnerungen.png)
+
 ---
 
 ## 🛠️ Verwendete Technologien
