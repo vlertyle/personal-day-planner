@@ -63,7 +63,7 @@ Für die Konfiguration werden Umgebungsvariablen verwendet.
 
 Sensible Daten wie Bot-Tokens oder Passwörter werden **nicht** im Repository gespeichert.
 
-![Erinnerungen]("C:\Users\User\Pictures\Screenshots\Errinerungen.png")
+![Erinnerungen](docs/screenshots/Erinnerungen.png)
 
 ---
 
