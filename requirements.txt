@@ -1,0 +1,3 @@
+# Die Anwendung selbst läuft mit der Python-Standardbibliothek (tkinter, json, smtplib).
+# Optional, um Zugangsdaten bequem aus einer .env-Datei zu laden:
+python-dotenv==1.0.1
