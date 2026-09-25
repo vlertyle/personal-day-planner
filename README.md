@@ -68,7 +68,7 @@ Sensible Daten wie Bot-Tokens oder Passwörter werden **nicht** im Repository ge
 ## 📸 Screenshots
 
 ### Aufgabenübersicht
-![Aufgabenübersicht](Aufgabenü¨bersicht.png)
+![Aufgabenübersicht](Aufgabenübersicht.png)
 
 ### Statistik
 ![Statistik](Statistik.png)
