@@ -99,6 +99,12 @@ Sensible Daten wie Bot-Tokens oder Passwörter werden **nicht** im Repository ge
 
 ---
 
+## 💻 Herunterladen
+
+[⬇️ Personal Day Planner v1.0.0 herunterladen](https://github.com/vlertyle/personal-day-planner/releases/tag/v1.0.0)
+
+---
+
 ## 📁 Projektstruktur
 
 ```text
