@@ -93,6 +93,12 @@ Sensible Daten wie Bot-Tokens oder Passwörter werden **nicht** im Repository ge
 
 ---
 
+## 🎥 Video
+
+[▶️ Personal Day Planner Demo](https://youtu.be/ERv2qyR6_Ms)
+
+---
+
 ## 📁 Projektstruktur
 
 ```text
