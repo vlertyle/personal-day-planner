@@ -105,10 +105,6 @@ personal-day-planner/
 ├── config.py
 ├── i18n.py
 │
-├── tests/
-│
-├── locales/
-│
 ├── .env.example
 ├── .gitignore
 ├── requirements.txt
