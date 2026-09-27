@@ -77,7 +77,7 @@ Sensible Daten wie Bot-Tokens oder Passwörter werden **nicht** im Repository ge
 ![Kalender](Kalender.png)
 
 ### Erinnerungen
-![Erinnerungen](Errinerungen.png)
+![Erinnerungen](Erinnerungen.png)
 
 ---
 
