@@ -116,7 +116,7 @@ personal-day-planner/
 ├── check_reminders.py
 ├── config.py
 ├── i18n.py
-│
+├── test_planner.py
 ├── .env.example
 ├── .gitignore
 ├── requirements.txt
