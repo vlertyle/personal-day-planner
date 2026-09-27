@@ -121,3 +121,4 @@ personal-day-planner/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+```
